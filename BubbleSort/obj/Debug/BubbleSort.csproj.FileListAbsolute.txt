@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.Form1.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BubbleSortSln\BubbleSort\obj\Debug\BubbleSort.pdb
